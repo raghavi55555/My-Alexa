@@ -29,3 +29,8 @@
 9. bot() function will terminate when choice!=3.
 10. If we want to quit from program
 11. Chatbot will not terminate untill programmer end this chat.
+
+## *Block Diagram of the chatbot
+
+Block diagram for display of country and continents
+
