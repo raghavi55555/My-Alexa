@@ -36,3 +36,11 @@ Block diagram for display of country and continents
 
 ![block diagram](https://github.com/raghavi55555/My-Alexa/blob/main/Screenshot%20(300).png)
 
+
+## DEMO VIDEO OF THE CHATBOT
+
+[https://youtu.be/b6tEwZoC8hs](https://youtu.be/b6tEwZoC8hs)
+
+## REFERENCE LINK
+
+[https://youtu.be/C6X71gjB9pA](https://youtu.be/C6X71gjB9pA)
