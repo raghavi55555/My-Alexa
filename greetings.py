@@ -3,7 +3,7 @@ from datetime import datetime
 
 def greet_and_introduce():
     responses = [
-        "Nice to see you. \nI am Alexa.\nI can help you to do some calculations and you can know information about Time.\nI believe in give and take policy so. you give me calculations and know information about country location"
+        "Nice to see you. \nI am Alexa.\nI can help you to do some calculations and you can know information about country residence.\nI believe in give and take policy so. you give me calculations and know information about country location"
     ]
     #pick a response at random and return that
     print( random.choice(responses))
